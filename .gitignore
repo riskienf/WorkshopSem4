@@ -1,0 +1,11 @@
+/web/sayur-mayur/node_modules
+/web/sayur-mayur/public/hot
+/web/sayur-mayur/public/storage
+/web/sayur-mayur/storage/*.key
+/web/sayur-mayur/vendor
+/web/sayur-mayur/.phpunit.result.cache
+/web/sayur-mayur/docker-compose.override.yml
+/web/sayur-mayur/Homestead.json
+/web/sayur-mayur/Homestead.yaml
+/web/sayur-mayur/npm-debug.log
+/web/sayur-mayur/yarn-error.log
